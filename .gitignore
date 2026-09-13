@@ -36,3 +36,9 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# Local source materials and historical references; deployed copies live in public/assets.
+/素材/
+/视觉参考/
+/旧版项目备份_2026-09-13/
+/ChatGPT Image 2026年9月13日 19_00_07.png
