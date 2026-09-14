@@ -2,6 +2,10 @@
 
 这是 Roomie 当前可交互首页的完整、独立项目。网页运行所需的源码、配置和图片都在本文件夹内；不会引用上一级 `素材` 文件夹。
 
+## 在线访问
+
+GitHub Pages：<https://qinghao-f.github.io/Roomie/>
+
 ## 目录约定
 
 - `src/`：React 页面、交互和样式。
